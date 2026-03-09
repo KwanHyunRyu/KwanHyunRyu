@@ -4,7 +4,7 @@
 
 ### Tech Stack
 
-**Backend** &nbsp; ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+**Backend** &nbsp; ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=java&logoColor=white)
 
 **Database** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -20,12 +20,13 @@
 
 | 프로젝트 | 기간 | 설명 | 기술 스택 |
 |----------|------|------|-----------|
-| **VDeX** | 2022.11 ~ 현재 | VDI 원격접속 솔루션 - 레거시 마이그레이션 및 국가 공인 인증 고도화 | Java 8→17, Spring Boot 3.x, Vue.js, PostgreSQL |
+| **VDeX** | 2022.11 ~ 현재 | VDI 원격접속 솔루션 - 레거시 마이그레이션 및 국가 공인 인증 고도화 | Java 8 → 17, Spring Boot, Vue.js, PostgreSQL |
 | **ORIS** | 2025.08 ~ 2025.12 | 금융기관 해외송금 중계 시스템 - 아키텍처 설계부터 구축까지 단독 주도 | Java 17, Spring Boot, JPA, PostgreSQL |
+| **ORIS 유지보수** | 2026.01 ~ 현재 | ORIS 시스템 운영 및 유지보수 | Java 17, Spring Boot, JPA, PostgreSQL |
 | **외환전산망** | 2025.09 ~ 현재 | 금융기관 외환전산망 중계 시스템 유지보수 | Go, Java 17, PHP, MySQL |
 
 ### Contact
 
 **fbrhksgus2@gmail.com**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://kwanhyunryu.github.io) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fbrhksgus2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://kwanhyunryu.github.io)
